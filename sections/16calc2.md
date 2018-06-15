@@ -2,7 +2,7 @@
 
 # Calculating Percentages with the Field Calculator
 
-Now, we will use the Field Calculator to make some porcentual fields that will allow us to create visualizations to see what our data can tell us about the people who are vulnerable to the floods. We will look at the percentage of Black/African American (Field: BLACK), the percentage of Hispanic population (field: HISPANIC), and the people aged 65 and over (field: AGE_65_UP). For each one of these, we will create a percentage using the Field Calculator.
+Now, we will use the Field Calculator to make some fields that will allow us to create visualizations to see what our data can tell us about the people who are vulnerable to the floods. We will look at the percentage of Black/African American (Field: BLACK), the percentage of Hispanic population (field: HISPANIC), and the people aged 65 and over (field: AGE_65_UP). For each one of these, we will create a percentage using the Field Calculator.
 
 The expression to create a percentage of Black population in a census block will be the following:
 ```python
